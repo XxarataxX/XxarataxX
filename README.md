@@ -1,3 +1,5 @@
-<div style="transition: 0.3s; background: #1A1A1A; padding: 20px; border-radius: 10px;">
-  ¡Pasa el mouse! (solo cambia color)
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border-bottom: 2px solid #58A6FF;">
+    <th style="padding: 12px;">Lenguaje</th>
+  </tr>
+</table>
